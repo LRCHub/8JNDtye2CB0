@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "base_track": "ハニーレモン",
+  "base_artist": "NACHERRY",
+  "createdAt": "2026-03-22T15:12:59.533797Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハニーレモン",
+      "artist": "NACHERRY",
+      "has_synced": false,
+      "path": "select/pl_01_ハニーレモン_NACHERRY.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ハニーレモン",
+      "artist": "NACHERRY",
+      "has_synced": false,
+      "path": "select/localdb_01_ハニーレモン_NACHERRY.txt",
+      "repo_name": "ci3Bib7a8c8"
+    }
+  ]
+}
